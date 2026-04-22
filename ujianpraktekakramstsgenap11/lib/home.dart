@@ -117,6 +117,7 @@ class _HomeState extends State<Home> {
                                         fontWeight: FontWeight.w500,
                                         // height: 0.9,
                                         letterSpacing: -0.2,
+                                        color: Colors.blueGrey.shade600,
                                         // color: Colors.red.shade400,
                                       ),
                                     ),
